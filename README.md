@@ -23,7 +23,7 @@ This project models:
 pscad-fault-analysis/
 ├── README.md                  # This file
 ├── waveforms.csv              # Simulated or placeholder waveform data
-├── report/
+├── project/
 │   └── project_report.pdf     # Detailed simulation summary & limitations
 ```
 
